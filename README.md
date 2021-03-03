@@ -1,8 +1,6 @@
 # site-filmes
 
-Este site está feito para eu possa colocar em prática os conhecimentos aprendidos no curso de REACT
+Este site foi feito durante um curso de React JS chamado "React Js do zero ao avançado na pratica"
 
-Alguns comandos:
-create-react-app web -> cria um projeto react com o nome web
- cd web
-  npm start
+Ele foi desenvolvido com o intuito de colocar em prática o que foi aprendido durante o curso.
+
